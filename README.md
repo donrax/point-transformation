@@ -1,5 +1,4 @@
 # point-manipulation
-
 A collection of general purpose functions for 2D/3D point manipulation
 
 ### Projective (homography) transformation
